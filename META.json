@@ -1,0 +1,62 @@
+{
+  "category": "remote-access",
+  "created_date": "2025-09-15T22:48:59.269233",
+  "default_ports": [
+    1,
+    80,
+    443,
+    3023
+  ],
+  "dependencies": [],
+  "description": "teleport is a free and open-source access plane. Gravitational Teleport provides zero trust access",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/remote-access/teleport",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/remote-access/teleport",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.269262",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "teleport",
+  "repository_url": "https://github.com/howtomgr/teleport",
+  "spec_version": "2.0",
+  "subcategory": "remote-access",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "remote-access",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "teleport Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/remote-access/teleport"
+}
